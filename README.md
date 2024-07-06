@@ -332,5 +332,5 @@ kit-item-optimization/
   - dashboard.looker
   - dashboard.xlsx
 - images/
-  - charts.png
-  - [README.md](https://github.com/NaveenM-10/optimization-supply-chain-management/blob/main/README.md)
+  - [charts.png](https://github.com/NaveenM-10/optimization-kit-item-distribution/tree/main/New%20folder)
+  - [README.md](https://github.com/NaveenM-10/optimization-kit-item-distribution/blob/main/README.md)
